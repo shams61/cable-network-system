@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "205602725986",
+    "project_id": "cablenetwork-15760",
+    "storage_bucket": "cablenetwork-15760.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:205602725986:android:a38c4ada262e47b1ac313b",
+        "android_client_info": {
+          "package_name": "com.example.cablenetwork"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "205602725986-ft6kvfijgbgf31hocl1rj3qcv9a772pb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAGEe853uEO7zAorfh8m8fmYpbsQaCYAY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "205602725986-ft6kvfijgbgf31hocl1rj3qcv9a772pb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
